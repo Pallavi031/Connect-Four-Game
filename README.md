@@ -2,7 +2,7 @@
  <p><b>Usage</b></p>
  <hr></hr>
   <ul>
-<li>While starting the project you get an alert that says Player 1 enter your name you'll be blue.</li><br /><li>So You first input player 1 and then player to enter your name.You will be red.</li>
+<li>While starting the project you get an alert that says Player 1 enter your name you'll be blue.</li><li>So You first input player 1 and then player to enter your name.You will be red.</li>
 <li>So you can give this some other name just give it the name be you hit enter and then we see the screen<br />so says welcome to Connect.<br /></li>
  <li>For the object of this game's connect for your chips in a row and player one player to alternate.</li>
  <li>But the thing is you only get to pick a column and that is the column where you're going to drop either your blue or red chip and it has to go all the way down.<br /></li>
