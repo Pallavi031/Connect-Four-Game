@@ -1,3 +1,5 @@
+<img src="Connect-Four-Game/ezgif.com-video-to-gif.gif">
+      
 <p><b>Connect-Four-Game</b><hr></hr>Simple two player Connect Four Game game made with pure Javascript ,CSS and jquery</p>
  <p><b>Usage</b></p>
  <hr></hr>
