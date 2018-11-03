@@ -1,4 +1,4 @@
-<img src="Connect-Four-Game/ezgif.com-video-to-gif.gif">
+![2018-11-03_13-24-33](https://user-images.githubusercontent.com/41961497/47949623-66441500-df6c-11e8-8c50-254e254983d7.gif)
       
 <p><b>Connect-Four-Game</b><hr></hr>Simple two player Connect Four Game game made with pure Javascript ,CSS and jquery</p>
  <p><b>Usage</b></p>
